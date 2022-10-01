@@ -4,6 +4,9 @@ As an American Federation Top Gun recruit, you have been tasked with testing thi
 Unfortunately, the Reformed Soviet States have no intention of letting you get to the lithium before them and have opened fire with their Communist lasers.
 Can you brave the stars, dodge the reds, and survive long enough to finish listening to Danger Zone in this Red vs Blue classic?
 
+
 Jam Theme: Two Colours
+
 Based on: https://realpython.com/lessons/pygame-primer-overview/
+
 I do not own any music or assets used
