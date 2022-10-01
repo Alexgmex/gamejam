@@ -5,4 +5,5 @@ Unfortunately, the Reformed Soviet States have no intention of letting you get t
 Can you brave the stars, dodge the reds, and survive long enough to finish listening to Danger Zone?
 
 Based on: https://realpython.com/lessons/pygame-primer-overview/
+
 I do not own any music or assets used
