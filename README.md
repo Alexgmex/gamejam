@@ -1,2 +1,0 @@
-# gamejam
-TOP GUN: SPACE FORCE
