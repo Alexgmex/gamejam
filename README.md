@@ -9,4 +9,8 @@ Jam Theme: Two Colours
 
 Based on: https://realpython.com/lessons/pygame-primer-overview/
 
-I do not own any music or assets used
+X-Wing Model: Amurosan on Deviantart https://www.deviantart.com/amurosan/art/X-Wing-773126596
+
+Music: "Danger Zone" by Kenny Loggins https://www.youtube.com/watch?v=siwpn14IE7E
+
+Sound effects by Jon Fincher
